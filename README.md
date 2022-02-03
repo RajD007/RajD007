@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shobharaj Desai
 - 👀 I’m interested in Learning new teqnologies, 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently building app in react native
 - 💞️ I’m looking to collaborate on various project that can give me a vastly exprience
 - 📫 How to reach me ... Gmail:- shubrajdesai.2017@gmail.com 
 
